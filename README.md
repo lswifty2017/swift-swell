@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SwiftSwellV1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
@@ -29,8 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 small change
 
-=======
 # swift-swell
 
 sample changes
->>>>>>> 8c48ccb36078532ccdd278a5e8d35c4c9bf216d0
