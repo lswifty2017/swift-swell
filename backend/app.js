@@ -6,4 +6,6 @@ app.use( (req, res, next) => {
   res.send('Node Running')
 });
 
+app.use('/test', )
+
 module.exports = app;
